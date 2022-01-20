@@ -1,0 +1,27 @@
+{
+  "name": "@kogpsy/jspsych-library-template",
+  "version": "1.0.0",
+  "main": "dist/jspsych-library-template.js",
+  "author": "Robin Bürkli <robuba.jr@gmx.ch>",
+  "license": "MIT",
+  "files": [
+    "dist"
+  ],
+  "devDependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.10",
+    "jest": "^27.4.7",
+    "prettier": "2.5.1",
+    "rollup": "^2.63.0",
+    "rollup-plugin-ts": "^2.0.5",
+    "ts-jest": "^27.1.2",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "build": "rollup --config",
+    "fmt": "prettier --write .",
+    "test": "jest"
+  },
+  "packageManager": "yarn@3.1.1"
+}
