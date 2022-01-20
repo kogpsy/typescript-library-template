@@ -1,5 +1,6 @@
 {
   "name": "@kogpsy/jspsych-library-template",
+  "description": "A template TypeScript library to build apon.",
   "version": "1.0.0",
   "main": "dist/jspsych-library-template.js",
   "author": "Robin Bürkli <robuba.jr@gmx.ch>",
