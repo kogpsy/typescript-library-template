@@ -1,5 +1,5 @@
 /*
- * jspsych-library-template
+ * typescript-library-template
  *
  * Author: Robin Bürkli <robuba.jr@gmx.ch>
  * License: MIT
